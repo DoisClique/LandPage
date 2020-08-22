@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Robôs de automatização
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Atravês do nosso sistema de busca você tem acesso em forma de panilhas aos dados importantes sobre o precatorios.
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/RPA.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Informações completas
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Tenha acesso aos dados que realmente importa de forma personalizada.
                   </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/PrecatorioPlanilha.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Planilhas inteligentes
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Panilhas atualizdas diarimente com os últimos precatórios lançados.
                   </p>
               </div>
               <div className={
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/grafico.PNG')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
